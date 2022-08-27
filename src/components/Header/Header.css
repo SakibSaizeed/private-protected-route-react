@@ -1,0 +1,7 @@
+.nav-container {
+    text-decoration: none;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 2rem;
+    background-color: salmon;
+}
